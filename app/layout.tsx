@@ -8,7 +8,7 @@ import "./globals.css"
 const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
-const APP_URL = "https://miniapp-nft-v2.vercel.app"
+const APP_URL = "https://nft-awallet.vercel.app"
 
 const miniAppEmbed = {
   version: "1",
@@ -43,8 +43,9 @@ export const metadata: Metadata = {
   },
   other: {
     "fc:miniapp": JSON.stringify(miniAppEmbed),
+    "base:app_id": "6968c5f04991800a6d9d649d",
   },
-    generator: 'v0.app'
+  generator: "v0.app",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
