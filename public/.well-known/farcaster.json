@@ -1,1 +1,40 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xB541481b59D97f8789998C688E640855Fe754648"
+  },
+  "miniapp": {
+    "name": "NFT aWallet OLD",
+    "version": "1",
+    "iconUrl": "https://miniapp-nft-v2.vercel.app/icon.png",
+    "homeUrl": "https://miniapp-nft-v2.vercel.app",
+    "imageUrl": "https://miniapp-nft-v2.vercel.app/og.png",
+    "splashImageUrl": "https://miniapp-nft-v2.vercel.app/splash.png",
+    "splashBackgroundColor": "#ffffff",
+    "webhookUrl": "https://miniapp-nft-v2.vercel.app/api/webhook",
+    "subtitle": "NFT aWallet OLD",
+    "description": "Wallet for Farcaster — view your NFTs, explore collections, and manage assets.",
+    "primaryCategory": "utility",
+    "tagline": "Manage NFTs in Farcaster",
+    "buttonTitle": "Open Mini App",
 
+    "ogTitle": "NFT aWallet OLD",
+    "ogDescription": "NFT aWallet OLD",
+
+    "tags": ["nft", "wallet"],
+
+    "heroImageUrl": "https://miniapp-nft-v2.vercel.app/og.png",
+    "ogImageUrl": "https://miniapp-nft-v2.vercel.app/og.png",
+    "screenshotUrls": [
+      "https://miniapp-nft-v2.vercel.app/screens/screen1.png",
+      "https://miniapp-nft-v2.vercel.app/screens/screen2.png",
+      "https://miniapp-nft-v2.vercel.app/screens/screen3.png"
+    ],
+
+    "noindex": false
+  }
+}
