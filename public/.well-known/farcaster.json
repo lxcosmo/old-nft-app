@@ -35,6 +35,6 @@
       "https://miniapp-nft-v2.vercel.app/screens/screen3.png"
     ],
 
-    "noindex": false
+    "noindex": true
   }
 }
