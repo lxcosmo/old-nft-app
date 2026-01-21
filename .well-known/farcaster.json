@@ -12,7 +12,7 @@
     "version": "1",
     "iconUrl": "https://miniapp-nft-v2.vercel.app/icon.png",
     "homeUrl": "https://miniapp-nft-v2.vercel.app",
-    "imageUrl": "https://miniapp-nft-v2.vercel.app/og.png",
+    "imageUrl": "https://miniapp-nft-v2.vercel.app/embed3.png",
     "splashImageUrl": "https://miniapp-nft-v2.vercel.app/splash.png",
     "splashBackgroundColor": "#ffffff",
     "webhookUrl": "https://miniapp-nft-v2.vercel.app/api/webhook",
@@ -27,8 +27,8 @@
 
     "tags": ["nft", "wallet"],
 
-    "heroImageUrl": "https://miniapp-nft-v2.vercel.app/og.png",
-    "ogImageUrl": "https://miniapp-nft-v2.vercel.app/og.png",
+    "heroImageUrl": "https://miniapp-nft-v2.vercel.app/embed3.png",
+    "ogImageUrl": "https://miniapp-nft-v2.vercel.app/embed3.png",
     "screenshotUrls": [
       "https://miniapp-nft-v2.vercel.app/screens/screen1.png",
       "https://miniapp-nft-v2.vercel.app/screens/screen2.png",
