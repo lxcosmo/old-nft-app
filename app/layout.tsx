@@ -17,7 +17,7 @@ const miniAppEmbed = {
     title: "Open Wallet",
     action: {
       type: "launch_miniapp",
-      name: "NFT aWallet",
+      name: "NFT aWallet old",
       url: APP_URL,
       splashImageUrl: `${APP_URL}/icon.png`,
       splashBackgroundColor: "#ffffff",
@@ -26,7 +26,7 @@ const miniAppEmbed = {
 }
 
 export const metadata: Metadata = {
-  title: "Farcaster NFT Wallet",
+  title: "NFT aWallet old",
   description: "View your ETH balance and NFT collection",
   manifest: "/manifest.json",
   icons: {
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     ],
   },
   openGraph: {
-    title: "Farcaster NFT Wallet",
+    title: "NFT aWallet old",
     description: "View your NFTs",
     images: [`${APP_URL}/embed3.png`],
   },
